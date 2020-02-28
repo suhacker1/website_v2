@@ -1,11 +1,8 @@
-!!!!!!!!!!!!!!CURRENTLY UNDER REVISION!!!!!!!!!!!!!!!!!!!!!!!!!
-
-
 Hi! 
 
 My name is Suha Sabi Hussain and welcome to my personal webpage. 
 
-**About Me: **
+**About Me**:
 
 I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 
 
@@ -19,7 +16,7 @@ Previously, I conducted research at the NYU Center for Cybersecurity, was a hard
 
 My resume can be found [here](https://sshussain.me/SH_R.pdf). 
 
-**Projects and Publications: **
+**Projects and Publications**:
 
 1. **Detecting Privacy Violations in Children’s Apps Using HPCs (NYU & QHSS)
 ***TL;Dr: Developed machine learning classifiers trained on hardware performance counter data to detect privacy violations in children’s apps on Android phones
