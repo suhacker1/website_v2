@@ -19,5 +19,5 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 # Projects and Publications:
 
 <dl>
-  <dt>Detecting Privacy Violations in Children’s Apps Using HPCs (NYU & QHSS)</dt>
+  <dt>1. Detecting Privacy Violations in Children’s Apps Using HPCs (NYU & QHSS) </dt>
   <dd>Is something people use sometimes.</dd>
