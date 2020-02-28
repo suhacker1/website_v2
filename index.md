@@ -20,6 +20,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
 #### 1. Detecting Privacy Violations in Children’s Apps Using HPCs (NYU & QHSS)
 
+
    **_TL;Dr_**: *Developed machine learning classifiers trained on hardware performance counter data to detect privacy violations in children’s apps on Android phones*
 
 ⋅⋅⋅ **Collaborators**: Kanad Basu, Ramesh Karri, Ujjwal Gupta
