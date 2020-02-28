@@ -38,5 +38,11 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
    
    **Honors**: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF)
    
-   
+### Other Projects
+
++ **Semantic Segmentation System for Autonomous Ground Vehicle (RJ IGVC)** 
++ **[Computer Vision Training Materials (RJ IGVC)](https://github.com/RoboJackets/nn-training)** 
++ **Math Research Resource Repository (QHSS)**
+
+   ([Respository](https://github.com/jchen42703/MathResearchQHSS); Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials))
    
