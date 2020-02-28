@@ -22,7 +22,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
    [[ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view); [Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing); [Data Collection Code](https://github.com/suhacker1/hpc-a)]
    
-   **TL;Dr:** *Developed machine learning classifiers trained on hardware performance counter data to detect privacy violations in children’s apps on Android phones*
+   **TL;Dr:** *we can build ML classifiers that detect privacy violations in apps using hardware performance counters *
       
    **Publications & Talks**: Invited talk at the NSA, Under Review at IEEE TIFS 
    
