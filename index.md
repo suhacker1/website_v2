@@ -6,9 +6,9 @@ My name is Suha Sabi Hussain and welcome to my personal webpage.
 
 I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 
 
-1. I’m pursuing a BS in Computer Science (People & Intelligence) at [Georgia Tech](https://cc.gatech.edu/)
+1. I’m pursuing a BS in Computer Science (People & Intelligence) at Georgia Tech
 
-2. I’m conducting research on the privacy of Safe Browsing under [Trail of Bits](https://www.trailofbits.com/) and [the Institute for Information Security & Privacy (IISP) at Georgia Tech](https://www.iisp.gatech.edu/)
+2. I’m conducting research on the privacy of Safe Browsing under Trail of Bits and the Institute for Information Security & Privacy (IISP) at Georgia Tech
 
 3. I’m a robotics software engineer at [RoboJackets IGVC](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 
