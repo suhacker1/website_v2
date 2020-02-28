@@ -1,3 +1,4 @@
+!!!!!!!!!!!!!!CURRENTLY UNDER REVISION!!!!!!!!!!!!!!!!!!!!!!!!!
 Hi! 
 
 My name is Suha Sabi Hussain and welcome to my personal webpage. 
@@ -18,7 +19,9 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
 **Projects and Publications: **
 
-1. **Detecting Privacy Violations in Children’s Apps Using HPCs (NYU & QHSS)***TL;Dr: Developed machine learning classifiers trained on hardware performance counter data to detect privacy violations in children’s apps on Android phones*[ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view) | [Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing) | [Data Collection Code](https://github.com/suhacker1/hpc-a)
+1. **Detecting Privacy Violations in Children’s Apps Using HPCs (NYU & QHSS)
+***TL;Dr: Developed machine learning classifiers trained on hardware performance counter data to detect privacy violations in children’s apps on Android phones
+*[ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view) | [Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing) | [Data Collection Code](https://github.com/suhacker1/hpc-a)
 
     1. 1Collaborators: Kanad Basu, Ramesh Karri, Ujjwal Gupta
 
@@ -26,7 +29,9 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
     3. Honors: ACM 1st Award (ISEF), NSA-RD First "Science Security" Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS)
 
-2. **A New Method for the Exploitation of Speech Recognition Systems (NYU & QHSS)***TL;Dr: Used adversarial machine learning to hack a speech recognition system*[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view) | [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing) | [Sample Code](https://github.com/suhacker1/phonetic-classification)
+2. **A New Method for the Exploitation of Speech Recognition Systems (NYU & QHSS)
+***TL;Dr: Used adversarial machine learning to hack a speech recognition system
+*[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view) | [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing) | [Sample Code](https://github.com/suhacker1/phonetic-classification)
 
     4. Mentors: Zahra Ghodsi, Ramesh Karri 
 
@@ -38,7 +43,8 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
 4. **[Computer Vision Training Materials (RJ IGVC)** ](https://github.com/RoboJackets/nn-training)
 
-5. **Math Research Resource Repository** (QHSS) [Repository](https://github.com/jchen42703/MathResearchQHSS) | Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
+5. **Math Research Resource Repository** (QHSS) 
+[Repository](https://github.com/jchen42703/MathResearchQHSS) | Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
 
 6. **Conveyor Belt **(Vengo Labs)
 
