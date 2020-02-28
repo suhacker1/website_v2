@@ -18,14 +18,25 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
 ### Research
 
-+ **Detecting Privacy Violations in Children's Apps Using HPCs [NYU & QHSS]** 
++ **Detecting Privacy Violations in Children's Apps Using HPCs (NYU & QHSS)** 
 
-   ([ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view); [Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing); [Data Collection Code](https://github.com/suhacker1/hpc-a))
+   [[ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view); [Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing); [Data Collection Code](https://github.com/suhacker1/hpc-a)]
    
    **TL;Dr:** *Developed machine learning classifiers trained on hardware performance counter data to detect privacy violations in children’s apps on Android phones*
       
    **Publications & Talks**: Invited talk at the NSA, Under Review at IEEE TIFS 
    
    **Honors**: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS)
+
++ **A New Method for the Exploitation of Speech Recognition Systems (NYU & QHSS)** 
+
+   [[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view); [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
+   
+   **TL;Dr:** *Used adversarial machine learning to hack a speech recognition system*
+      
+   **Publications & Talks**: [Fall 2018 C3E Workshop Proceedings](https://cps-vo.org/node/55909), Invited talk at the NSA
+   
+   **Honors**: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF)
+   
    
    
