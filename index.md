@@ -1,4 +1,4 @@
-My name is Suha Sabi Hussain and welcome to my personal webpage. 
+Hi! My name is Suha Sabi Hussain and welcome to my site. 
 
 # About Me:
 
