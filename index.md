@@ -19,3 +19,11 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 # Projects and Publications:
 
 #### 1. Detecting Privacy Violations in Children’s Apps Using HPCs (NYU & QHSS)
+
+**_TL;Dr_**: *Developed machine learning classifiers trained on hardware performance counter data to detect privacy violations in children’s apps on Android phones*
+
+**Collaborators**: Kanad Basu, Ramesh Karri, Ujjwal Gupta
+
+**Publications & Talks**: Invited talk at the NSA, Under Review at IEEE TIFS 
+
+**Honors**: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS)
