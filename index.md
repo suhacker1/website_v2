@@ -40,7 +40,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
 + **[Computer Vision Training Materials (RJ IGVC)](https://github.com/RoboJackets/nn-training)** 
 
-+ **Math Research Resource Repository (QHSS)**
++ **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
 
-   [[Respository](https://github.com/jchen42703/MathResearchQHSS); Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)]
+   [Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)]
    
