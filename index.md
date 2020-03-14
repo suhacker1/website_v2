@@ -12,7 +12,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 Previously, I conducted research at the NYU Center for Cybersecurity, was a hardware engineering intern at Vengo Labs, and did some freelance engineering work. 
 
-My resume can be found [here](https://sshussain.me/SH_R.pdf). 
+My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhashussain1 'at' gmail 'dot' com. My Twitter can be found [here](https://twitter.com/suhackerr). 
 
 # Portfolio:
 
