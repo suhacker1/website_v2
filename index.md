@@ -42,5 +42,5 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf).
 
 + **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
 
-   [Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)]
+   Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
    
