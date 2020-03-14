@@ -23,7 +23,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhash
    
    [IEEE TIFS, 2020](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206); Invited talk for the NSA Board of Directors, 2019 [PDF, [ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view); [JSHS Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing); [Data Collection](https://github.com/suhacker1/hpc-a)]
    
-   *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS)
+   *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), QHSSYC Press Release
    
 + Suha Hussain, Zahra Ghodsi 
 
@@ -31,7 +31,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhash
    
    [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk for the NSA Research Directorate, 2018 [[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view); [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
    
-   *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF)
+   *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release 
 
    
 ### Other Projects
