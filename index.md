@@ -48,13 +48,15 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhash
 
 <details>
 <summary> High School Activities</summary>
-  I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. 
+  <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. </p>
 </details>
+
+
 
 
 <details>
 <summary> High School Honors and Awards</summary>
-   NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. 
+  <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. </p>
 </details>
 
    
