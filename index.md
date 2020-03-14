@@ -14,7 +14,7 @@ Previously, I conducted research at the NYU Center for Cybersecurity, was a hard
 
 My resume can be found [here](https://sshussain.me/SH_R.pdf). 
 
-# Projects and Publications:
+# Portfolio:
 
 ### Research
 + Kanad Basu, Suha Hussain, Ujjwal Gupta, Ramesh Karri 
