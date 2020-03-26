@@ -43,7 +43,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
   
   Highlights: [Neural Network Training Material](https://github.com/RoboJackets/nn-training)
   
-+ Queens High School for the Sciences Math Research
++ Queens High School for the Sciences: Math Research
 
   **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
   
