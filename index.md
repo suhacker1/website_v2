@@ -86,8 +86,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
 
 <details>
 <summary> Philanthropy </summary>
-  <p> If you can, I would recommend donating to <a href="https://bit.ly/2Jf7wEr">NYC Makers vs. COVID</a>,<a href="https://www.thelifeyoucansave.org/"> the Life You Can Save (GiveDirectly, D-Rev, Evidence Action)</a>
-,<a href="https://bit.ly/3apaAcU"> the Intercept</a>, <a href="https://www.societyforscience.org/get-involved-individual/donate/"> the Society for Science and the Public (or your local ISEF-affiliated fair)</a>, <a href="https://couragetochangepac.org/"> the Courage to Change PAC (affiliated with AOC) </a>, <a href="https://en.wikipedia.org/wiki/Main_Page"> Wikipedia</a>, or <a href="https://donate.torproject.org/"> the Tor project</a>.
+  <p> If you can, I would recommend donating to <a href="https://bit.ly/2Jf7wEr">NYC Makers vs. COVID</a>,<a href="https://www.thelifeyoucansave.org/"> the Life You Can Save (GiveDirectly, D-Rev, Evidence Action)</a>,<a href="https://bit.ly/3apaAcU"> the Intercept</a>, <a href="https://www.societyforscience.org/get-involved-individual/donate/"> the Society for Science and the Public (or your local ISEF-affiliated fair)</a>, <a href="https://couragetochangepac.org/"> the Courage to Change PAC (affiliated with AOC)</a>, <a href="https://en.wikipedia.org/wiki/Main_Page"> Wikipedia</a>, or <a href="https://donate.torproject.org/"> the Tor project</a>.
 
 </p>
 </details>
