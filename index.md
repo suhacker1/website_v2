@@ -29,7 +29,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhash
 
    **A New Method for the Exploitation of Speech Recognition Systems** 
    
-   [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk for the NSA Research Directorate, 2018 [[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view); [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
+   [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk at the NSA Research Directorate, 2018 [[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view); [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
    
    *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release 
    
