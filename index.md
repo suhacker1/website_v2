@@ -64,7 +64,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
 
 <details>
 <summary> Favorite Films</summary>
-  <p> The Prestige. Snowpiercer. The Imitation Game. </p>
+  <p> The Prestige. Snowpiercer. The Imitation Game. Parasite. </p>
 </details>
 
 <details>
