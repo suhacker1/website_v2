@@ -63,4 +63,19 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhash
   <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. </p>
 </details>
 
-   
+
+
+<details>
+<summary> Favorite Films</summary>
+  <p> The Prestige. Snowpiercer. The Imitation Game. </p>
+</details>
+
+<details>
+<summary> Favorite Books</summary>
+  <p> Snow Crash. The Information: A History, A Theory, A Flood. The Crying of Lot 49. Ender’s Game. </p>
+</details>
+
+<details>
+<summary> Favorite Shows</summary>
+  <p> Saturday Night Live. One Day at a Time.  </p>
+</details>
