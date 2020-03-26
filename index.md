@@ -47,13 +47,14 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
   
   Highlights: [Neural Network Training Material](https://github.com/RoboJackets/nn-training)
   
-+ Queens High School for the Sciences: Math Research
++ QHSS Math Research
 
   **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
   
   Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Deep Learning Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
   
-   
+  *Completed at Queens High School for the Sciences*
+  
 ### More Information 
 
 <details>
