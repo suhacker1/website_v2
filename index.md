@@ -35,16 +35,20 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhash
    
    *Completed at the NYU Center for Cybersecurity*
 
-   
-### Other Projects
+### Other Projects 
 
-+ **Semantic Segmentation System for Autonomous Ground Vehicle (RJ IGVC)** 
++ RoboJackets Intelligent Ground Vehicle Competition Team 
 
-+ **[Computer Vision Training Materials (RJ IGVC)](https://github.com/RoboJackets/nn-training)** 
+  **[Intelligent Ground Vehicle Competition Software](https://github.com/RoboJackets/igvc-software)**
+  
+  Highlights: [Neural Network Training Material](https://github.com/RoboJackets/nn-training)
+  
++ Queens High School for the Sciences Math Research
 
-+ **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
-
-   Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
+  **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
+  
+  Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
+  
    
 ### More Information 
 
