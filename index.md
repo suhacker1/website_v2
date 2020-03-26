@@ -10,7 +10,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 3. I’m a robotics software engineer at [RoboJackets IGVC](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 
-My resume can be found [here](https://sshussain.me/SH_R.pdf). My email is suhashussain1 'at' gmail 'dot' com. My Twitter can be found [here](https://twitter.com/suhackerr). 
+My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be found [here](https://twitter.com/suhackerr). My email is suhashussain1 'at' gmail 'dot' com.
 
 # Portfolio:
 
