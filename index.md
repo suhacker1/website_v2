@@ -55,6 +55,8 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
   
   *Completed at Queens High School for the Sciences*
   
++ *Coming Soon:* OpenMined, CoronaTracker, and SafePaths Contributions
+  
 ### More Information 
 
 <details>
