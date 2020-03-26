@@ -8,7 +8,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 2. I’m conducting research on the privacy of Safe Browsing under [Trail of Bits](https://www.trailofbits.com/) and the Georgia Tech Institute for Information Security & Privacy (IISP)
 
-3. I’m a robotics software engineer at [RoboJackets IGVC](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
+3. I’m a robotics software engineer at [RoboJackets](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 
 My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be found [here](https://twitter.com/suhackerr). My email is suhashussain1 'at' gmail 'dot' com.
 
@@ -47,7 +47,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
 
   **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
   
-  Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Neural Network Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
+  Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Deep Learning Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
   
    
 ### More Information 
@@ -57,15 +57,10 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
   <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. </p>
 </details>
 
-
-
-
 <details>
 <summary> High School Awards</summary>
   <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. </p>
 </details>
-
-
 
 <details>
 <summary> Favorite Films</summary>
