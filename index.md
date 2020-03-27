@@ -41,6 +41,10 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
 
 ### Other Projects 
 
++ COVID-19 Electronic Health System Group 
+
+  **[Corona Tracker Web App](https://github.com/COVID-19-electronic-health-system/Corona-tracker) - Security and Privacy**
+
 + RoboJackets Intelligent Ground Vehicle Competition Team 
 
   **[Intelligent Ground Vehicle Competition Software](https://github.com/RoboJackets/igvc-software)**
@@ -55,7 +59,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
   
   *Completed at Queens High School for the Sciences*
   
-+ *Coming Soon:* OpenMined, CoronaTracker, and SafePaths Contributions
++ *Coming Soon:* OpenMined and SafePaths Contributions
   
 ### More Information 
 
