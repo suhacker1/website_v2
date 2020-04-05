@@ -14,7 +14,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 My other hobbies and interests include public policy, editing Wikipedia, comedy, food, film, exploring cities, microelectronics, linguistics, STS, and speculative fiction. 
 
-My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be found [here](https://twitter.com/suhackerr). My email is suhashussain1 'at' gmail 'dot' com.
+My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be found [here](https://twitter.com/suhackerr). My Google Scholar Profile (with my official publications) can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en). My email is suhashussain1 'at' gmail 'dot' com.
 
 # Portfolio:
 
