@@ -12,7 +12,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 4. I’m contributing to several open-source projects, including CoronaTracker and OpenMined 
 
-My other hobbies and interests include public policy, editing Wikipedia, comedy, food, film, traveling, microelectronics, linguistics, STS, and speculative fiction. 
+My other hobbies and interests include public policy, editing Wikipedia, comedy, food, film, exploring cities, microelectronics, linguistics, STS, and speculative fiction. 
 
 My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be found [here](https://twitter.com/suhackerr). My email is suhashussain1 'at' gmail 'dot' com.
 
