@@ -85,7 +85,7 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
 
 <details>
 <summary> Favorite Shows</summary>
-  <p> Saturday Night Live. One Day at a Time.  </p>
+  <p> Saturday Night Live. One Day at a Time. Avatar: The Legend of Korra  </p>
 </details>
 
 <details>
