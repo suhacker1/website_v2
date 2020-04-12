@@ -10,9 +10,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 3. I’m a robotics software engineer at [RoboJackets](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 
-4. I’m contributing to several open-source projects, including CoronaTracker and OpenMined 
-
-My other hobbies and interests include public policy, editing Wikipedia, comedy, food, film, exploring cities, microelectronics, linguistics, STS, and speculative fiction. 
+My other hobbies and interests include locksport, public policy, editing Wikipedia, open source, comedy, food, film, exploring cities, microelectronics, linguistics, STS, and speculative fiction. 
 
 My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be found [here](https://twitter.com/suhackerr). My Google Scholar Profile (with my official publications) can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en). My email is suhashussain1 'at' gmail 'dot' com.
 
@@ -41,15 +39,15 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
 
 ### Other Projects 
 
-+ COVID-19 Electronic Health System Group 
-
-  **[Corona Tracker Web App](https://github.com/COVID-19-electronic-health-system/Corona-tracker) - Security and Privacy**
-
 + RoboJackets Intelligent Ground Vehicle Competition Team 
 
   **[Intelligent Ground Vehicle Competition Software](https://github.com/RoboJackets/igvc-software)**
   
   Highlights: [Neural Network Training Material](https://github.com/RoboJackets/nn-training)
+  
++ Open Source Community Projects 
+
+  **[Corona Tracker Web App](https://github.com/COVID-19-electronic-health-system/Corona-tracker); [OpenMined](https://github.com/OpenMined)**  
   
 + QHSS Math Research
 
@@ -58,9 +56,8 @@ My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be 
   Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Deep Learning Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
   
   *Completed at Queens High School for the Sciences*
-  
-+ *Coming Soon:* OpenMined and SafePaths Contributions
-  
+ 
+    
 ### More Information 
 
 <details>
