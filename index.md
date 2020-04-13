@@ -10,7 +10,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 3. I’m a robotics software engineer at [RoboJackets](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 
-My other hobbies and interests include locksport, public policy, editing Wikipedia, open source, comedy, food, film, exploring cities, microelectronics, linguistics, STS, and speculative fiction. 
+My hobbies include martial arts, lock picking, traveling, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, food, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
 
 My resume can be found [here](https://sshussain.me/SH_R.pdf). My Twitter can be found [here](https://twitter.com/suhackerr). My Google Scholar Profile (with my official publications) can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en). My email is suhashussain1 'at' gmail 'dot' com.
 
