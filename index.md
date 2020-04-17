@@ -47,7 +47,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
   **[Intelligent Ground Vehicle Competition Software](https://github.com/RoboJackets/igvc-software)**
   
-  Highlights: [Neural Network Training Material](https://github.com/RoboJackets/nn-training)
+  Highlights: [Multiclass Image Segmentation System](https://github.com/suhacker1/igvc-software/tree/multiclass_segmentation/igvc_perception/src/multiclass_segmentation), [Neural Network Training Material](https://github.com/RoboJackets/nn-training)
   
 + Open Source Community Projects 
 
