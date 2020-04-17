@@ -12,7 +12,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
 
-My resume can be found [here](https://sshussain.me/SH_R.pdf). My Google Scholar Profile (with my official publications) can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
+My resume can be found [here](https://sshussain.me/SH_R.pdf). My Google Scholar Profile can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
 
 Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 'at' gmail 'dot' com.
 
