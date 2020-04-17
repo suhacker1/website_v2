@@ -25,7 +25,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
    **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
    
-   [IEEE TIFS, 2020](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10206); Invited talk for the NSA Board of Directors, 2019 [PDF, [ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view); [JSHS Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing); [Data Collection](https://github.com/suhacker1/hpc-a)]
+   [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 [PDF, [ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view); [JSHS Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing); [Data Collection](https://github.com/suhacker1/hpc-a)]
    
    *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), QHSSYC Press Release
    
