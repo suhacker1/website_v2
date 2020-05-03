@@ -86,7 +86,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 </details>
 
 <details>
-<summary> Favorite Books and Readings</summary>
+<summary> Favorite Books</summary>
   <p> Snow Crash. The Information: A History, A Theory, A Flood. The Crying of Lot 49. Ender’s Game. Narrative of the Life of Frederick Douglass, an American Slave </p>
 </details>
 
