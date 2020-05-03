@@ -6,7 +6,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 1. I’m pursuing a BS in Computer Science (People & Intelligence) at [Georgia Tech](https://cc.gatech.edu/)
 
-2. I’m conducting research on the privacy of Safe Browsing under [Trail of Bits](https://www.trailofbits.com/) and the Georgia Tech Institute for Information Security & Privacy (IISP)
+2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
 
 3. I’m a robotics software engineer at [RoboJackets](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 
