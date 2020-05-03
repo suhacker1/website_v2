@@ -20,7 +20,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 # Portfolio:
 
-### Research
+### Research and Development
 + **Privacy of Safe Browsing (In Progress)** 
 
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
