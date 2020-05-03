@@ -86,13 +86,8 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 </details>
 
 <details>
-<summary> Favorite Books</summary>
+<summary> Favorite Books and Readings</summary>
   <p> Snow Crash. The Information: A History, A Theory, A Flood. The Crying of Lot 49. Ender’s Game. Narrative of the Life of Frederick Douglass, an American Slave </p>
-</details>
-
-<details>
-<summary> Favorite Shows</summary>
-  <p> Saturday Night Live. One Day at a Time. Avatar: The Legend of Korra  </p>
 </details>
 
 <details>
