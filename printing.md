@@ -1,6 +1,4 @@
-For my 3D prints, I make use of Voodoo Manufacturing, my MakerBot Replicator, or a 3D printer at one of Georgia Tech's makerspaces.
-
-Some of my favorite prints are: 
+For my 3D prints, I make use of Voodoo Manufacturing, my MakerBot Replicator, or a 3D printer at one of Georgia Tech's makerspaces. Some of my favorite prints are: 
 
 ![An Iron Throne I gifted to my friend Miguel for his birthday](https://sshussain.me/images/throne.png)
 
