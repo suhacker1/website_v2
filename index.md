@@ -21,9 +21,15 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 # Portfolio:
 
 ### Research
-+ Kanad Basu, Suha Hussain, Ujjwal Gupta, Ramesh Karri 
++ **Privacy of Safe Browsing (In Progress)** 
 
-   **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
+  Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
+  
+  *Trail of Bits; Georgia Tech Institute for Information Security & Privacy (IISP)*
+
++  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
+
+    Kanad Basu, Suha Hussain, Ujjwal Gupta, Ramesh Karri
    
    [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 [[ISEF Paper](https://drive.google.com/file/d/1IKWQ72VcVUSOioZ19B6X3CemOhZKAsFo/view); [JSHS Slides](https://docs.google.com/presentation/d/1XsHg5j47Ob5W22Fz3rVa4eiA4QDxG_LS0D_g0-SD2hw/edit?usp=sharing); [Data Collection](https://github.com/suhacker1/hpc-a)]
    
@@ -31,9 +37,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
    *Completed at the NYU Center for Cybersecurity*
    
-+ Suha Hussain, Zahra Ghodsi 
-
-   **A New Method for the Exploitation of Speech Recognition Systems** 
++ **A New Method for the Exploitation of Speech Recognition Systems** 
+   
+   Suha Hussain, Zahra Ghodsi 
    
    [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk at the NSA Research Directorate, 2018 [[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view); [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
    
