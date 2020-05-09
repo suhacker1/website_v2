@@ -54,19 +54,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
   **[Intelligent Ground Vehicle Competition Software](https://github.com/RoboJackets/igvc-software)**
   
   Highlights: [Multiclass Image Segmentation System](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation), [Neural Network Training Material](https://github.com/RoboJackets/nn-training)
-  
-+ Open Source Community Projects 
-
-  **[Corona Tracker Web App](https://github.com/COVID-19-electronic-health-system/Corona-tracker); [OpenMined](https://github.com/OpenMined)**  
-  
-+ QHSS Math Research
-
-  **[Math Research Resource Repository (QHSS)](https://github.com/jchen42703/MathResearchQHSS)**
-  
-  Highlights: [Ridge Regression](https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution), [Deep Learning Tutorials](https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials)
-  
-  *Completed at Queens High School for the Sciences*
- 
+   
     
 ### More Information 
 
@@ -78,6 +66,11 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 <details>
 <summary> High School Awards</summary>
   <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. </p>
+</details>
+
+<details>
+<summary> High School Projects</summary>
+  <p> Aside from my research at NYU, I worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Highlights: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>). I was also a hardware engineering intern at <a href="https://vengolabs.com/">Vengo Labs</a>. Some of my other projects are visible on my GitHub.</p>
 </details>
 
 <details>
