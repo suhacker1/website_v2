@@ -61,7 +61,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 <details>
 <summary> High School Activities</summary>
-  <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. </p>
+  <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. Outside of school, I freelanced, conducted research under <a href="https://en.wikipedia.org/wiki/Ramesh_Karri">Prof. Ramesh Karri</a> at <a href="http://cyber.nyu.edu/">NYU CCS</a>, and completed a hardware engineering internship at <a href="https://vengolabs.com/">Vengo Labs</a> (recommendation letter TBA). </p>
 </details>
 
 <details>
@@ -71,7 +71,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 <details>
 <summary> High School Projects</summary>
-  <p> Aside from my research at NYU, I worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Highlights: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>). I was also a hardware engineering intern at <a href="https://vengolabs.com/">Vengo Labs</a>. Some of my other projects are visible on my GitHub.</p>
+  <p> Aside from my research at NYU, I worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Highlights: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>). I also programmed and built a conveyor belt at <a href="https://vengolabs.com/">Vengo Labs</a> among my other responsibilities. My <a href="https://github.com/suhacker1">Github </a>contains various other projects I worked on during this time period.</p>
 </details>
 
 <details>
