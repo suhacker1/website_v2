@@ -39,7 +39,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
 + **A New Method for the Exploitation of Speech Recognition Systems** 
    
-   Suha Hussain, Zahra Ghodsi 
+   Suha Hussain, Zahra Ghodsi, Ramesh Karri
    
    [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk at the NSA Research Directorate, 2018 [[ISEF Paper](https://drive.google.com/file/d/1ByrSzbkMNXoF-iJ1uwdhpyixC0_7D1Wy/view); [Slides](https://docs.google.com/presentation/d/1JxGNaqcpdKTIlk0w19AA_vlWDoO95H_7zL3ooscUGj8/edit?usp=sharing); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
    
