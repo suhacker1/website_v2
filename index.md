@@ -66,7 +66,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 <details>
 <summary> High School Awards</summary>
-  <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. </p>
+  <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. NCWIT NYC Honorable Mention </p>
 </details>
 
 <details> 
