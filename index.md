@@ -4,13 +4,13 @@ Hi! My name is Suha Sabi Hussain and welcome to my site.
 
 I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 
 
-1. I’m pursuing a BS in Computer Science (Threads: [People](https://www.cc.gatech.edu/content/people) & [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/)
+1. I’m pursuing a BS in Computer Science ([People](https://www.cc.gatech.edu/content/people) & [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/)
 
 2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
 
-3. I conduct research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/) at the [Institute for Information Security & Privacy (IISP)](https://iisp.gatech.edu/)
+3. I conduct research under [Professor Wenke Lee](https://wenke.gtisc.gatech.edu/) 
 
-4. I'm a member of the [RoboNav Software Team](https://robojackets.org/teams/robonav/)
+4. I'm a member of the [RoboNav Software Team](https://robojackets.org/teams/robonav/) 
 
 My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
 
