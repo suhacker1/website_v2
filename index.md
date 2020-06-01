@@ -51,11 +51,11 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 + **[Multiclass Image Segmentation System for Autonomous Ground Vehicle](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
-  *Completed under the Georgia Tech RoboJackets IGVC Software Team*
+  *Completed under the Georgia Tech RoboJackets RoboNav Software Team*
 
-+ **[RJ IGVC Neural Network Training Material](https://github.com/RoboJackets/nn-training)**
++ **[RJ RoboNav Neural Network Training Material](https://github.com/RoboJackets/nn-training)**
 
-  *Completed under the Georgia Tech RoboJackets IGVC Software Team*
+  *Completed under the Georgia Tech RoboJackets RoboNav Software Team*
 
 ### More Information 
 
