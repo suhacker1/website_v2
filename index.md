@@ -8,7 +8,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
 
-3. I'm a member of the RoboNav software team at [RoboJackets](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
+3. I'm a member of the [RoboNav Software Team](https://robojackets.org/teams/robonav/)
 
 My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
 
@@ -51,11 +51,11 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 + **[Multiclass Image Segmentation System for Autonomous Ground Vehicle](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
-  *Completed under the Georgia Tech RoboJackets RoboNav Software Team*
+  *Completed for the RoboNav Software Team*
 
 + **[RoboNav Neural Network Training Material](https://github.com/RoboJackets/nn-training)**
 
-  *Completed under the Georgia Tech RoboJackets RoboNav Software Team*
+  *Completed for the RoboNav Software Team*
 
 ### More Information 
 
