@@ -55,7 +55,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
   *Completed for the RoboNav Software Team*
 
-+ **[RoboNav Neural Network Training Material](https://github.com/RoboJackets/nn-training)**
++ **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
 
   *Completed for the RoboNav Software Team*
 
