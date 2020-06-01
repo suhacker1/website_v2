@@ -4,7 +4,7 @@ Hi! My name is Suha Sabi Hussain and welcome to my site.
 
 I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 
 
-1. I’m pursuing a BS in Computer Science (Threads: People & Intelligence; Minor: Economics) at [Georgia Tech](https://cc.gatech.edu/)
+1. I’m pursuing a BS in Computer Science (Threads: [People](https://www.cc.gatech.edu/content/people) & [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/)
 
 2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
 
