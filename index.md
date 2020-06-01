@@ -1,4 +1,4 @@
-# About Me:
+# About Me
 
 Hi! My name is Suha Sabi Hussain and welcome to my site. 
 
@@ -20,7 +20,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 <!--- Comment -->
 
-# Notable Work:
+# Notable Work
 
 ## Trail of Bits
 + **Privacy of Safe Browsing (Work In Progress)** 
