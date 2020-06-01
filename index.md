@@ -49,15 +49,13 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
    *Completed at the NYU Center for Cybersecurity*
 
-### Other Projects 
+### RoboNav Projects 
 
 + **[Multiclass Image Segmentation System for Autonomous Ground Vehicle](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
-  *Completed for the RoboNav Software Team*
-
 + **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
-
-  *Completed for the RoboNav Software Team*
+  
++ **[Coming Soon: Unit Testing and Fuzzing for Vehicle Firmware](https://github.com/RoboJackets/nn-training)**
 
 ### More Information 
 
