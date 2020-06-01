@@ -53,7 +53,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
   *Completed under the Georgia Tech RoboJackets RoboNav Software Team*
 
-+ **[RJ RoboNav Neural Network Training Material](https://github.com/RoboJackets/nn-training)**
++ **[RoboNav Neural Network Training Material](https://github.com/RoboJackets/nn-training)**
 
   *Completed under the Georgia Tech RoboJackets RoboNav Software Team*
 
