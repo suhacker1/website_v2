@@ -8,9 +8,9 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
 
-3. I'm a member of the [RoboNav Software Team](https://robojackets.org/teams/robonav/)
+3. I conduct research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/) at the [Institute for Information Security & Privacy (IISP)](https://iisp.gatech.edu/)
 
-4. I conduct research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/) at the [Institute for Information Security & Privacy (IISP)](https://iisp.gatech.edu/)
+4. I'm a member of the [RoboNav Software Team](https://robojackets.org/teams/robonav/)
 
 My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
 
