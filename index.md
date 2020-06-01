@@ -22,12 +22,14 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 # Notable Work:
 
-### Research and Development
+### Trail of Bits
 + **Privacy of Safe Browsing (Work In Progress)** 
 
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
   
   *Trail of Bits; Georgia Tech Institute for Information Security & Privacy (IISP)*
+  
+### NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
 
@@ -49,13 +51,13 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
    *Completed at the NYU Center for Cybersecurity*
 
-### RoboNav Projects 
+### RoboNav Software Team 
 
-+ **[Multiclass Image Segmentation System for Autonomous Ground Vehicle](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
++ **[Multiclass Image Semantic Segmentation System for Robotic Perception System](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
 + **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
   
-+ **Unit Testing and Fuzzing for Vehicle Firmware (Work In Progress)**
++ **Unit Testing and Fuzzing for Robotic Firmware Systems (Work In Progress)**
 
 ### More Information 
 
