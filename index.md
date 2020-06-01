@@ -49,11 +49,11 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 ### RoboNav Software Team 
 
-+ **[Multiclass Image Semantic Segmentation System for Robotic Perception System](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
++ **[Multiclass Image Semantic Segmentation System for the Vehicle Perception System](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
 + **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
   
-+ **Unit Testing and Fuzzing for Robotic Firmware Systems (Work In Progress)**
++ **Unit Testing and Fuzzing for the Vehicle Firmware Systems (Work In Progress)**
 
 ### More Information 
 
