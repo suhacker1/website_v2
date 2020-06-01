@@ -23,7 +23,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 # Notable Work:
 
 ### Research and Development
-+ **Privacy of Safe Browsing (In Progress)** 
++ **Privacy of Safe Browsing (Work In Progress)** 
 
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
   
@@ -55,7 +55,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 + **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
   
-+ **[Coming Soon: Unit Testing and Fuzzing for Vehicle Firmware](https://github.com/RoboJackets/nn-training)**
++ **Unit Testing and Fuzzing for Vehicle Firmware (Work In Progress)**
 
 ### More Information 
 
