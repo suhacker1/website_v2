@@ -22,14 +22,14 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 # Notable Work:
 
-### Trail of Bits
+## Trail of Bits
 + **Privacy of Safe Browsing (Work In Progress)** 
 
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
   
   *Simultaneously conducted under the Georgia Tech Institute for Information Security & Privacy (IISP)*
   
-### NYU Center for Cybersecurity
+## NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
 
@@ -47,7 +47,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
    *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release 
 
-### RoboNav Software Team 
+## RoboNav Software Team 
 
 + **[Multiclass Image Semantic Segmentation System for the Vehicle Perception System](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
@@ -55,7 +55,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
   
 + **Unit Testing and Fuzzing for the Vehicle Firmware Systems (Work In Progress)**
 
-### More Information 
+# More Information 
 
 <details>
 <summary> High School Activities</summary>
