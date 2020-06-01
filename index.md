@@ -4,11 +4,11 @@ Hi! My name is Suha Sabi Hussain and welcome to my site.
 
 I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 
 
-1. I’m pursuing a BS in Computer Science (People & Intelligence) at [Georgia Tech](https://cc.gatech.edu/)
+1. I’m pursuing a BS in Computer Science (People & Intelligence) with a minor in economics at [Georgia Tech](https://cc.gatech.edu/)
 
 2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
 
-3. I’m a robotics software engineer at [RoboJackets](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
+3. I'm a member of the RoboNav software team at [RoboJackets](https://robojackets.org/teams/intelligent-ground-vehicle-competition/)
 
 My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
 
