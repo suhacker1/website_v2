@@ -27,7 +27,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
   
-  *Simultaneously conducted under the Georgia Tech Institute for Information Security & Privacy (IISP)*
+  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP) under Professor Wenke Lee*
   
 ## NYU Center for Cybersecurity
 
