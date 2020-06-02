@@ -37,7 +37,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
    [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 [[ISEF Paper](https://sshussain.me/written_works/ISEF_Paper.pdf); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)]
    
-   *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), QHSSYC Press Release
+   *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release
    
 + **A New Method for the Exploitation of Speech Recognition Systems** 
    
