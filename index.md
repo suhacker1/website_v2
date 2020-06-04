@@ -69,7 +69,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 <details> 
 <summary> High School Projects</summary>
-  <p> Aside from my research at NYU, I worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Examples: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>). <a href="https://vengolabs.com/"> I also programmed and built a conveyor belt at Vengo Labs among my other responsibilities.</a>
+  <p> Aside from my research at NYU, I worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Examples: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>). <a href="https://github.com/suhacker1/conveyor_belt"> I also programmed and built a conveyor belt at Vengo Labs among my other responsibilities.</a>
 My <a href="https://github.com/suhacker1">Github </a>contains various other projects I worked on during this time period.</p>
 </details>
 
