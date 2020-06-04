@@ -85,7 +85,7 @@ My <a href="https://github.com/suhacker1">Github </a>contains various other proj
 
 <details>
 <summary> Philanthropy </summary>
-  <p> I recommend donating to <a href="https://www.thelifeyoucansave.org/"> the Life You Can Save (GiveDirectly, D-Rev, Evidence Action)</a>,<a href="https://bit.ly/3apaAcU"> the Intercept</a>, <a href="https://brooklynbailfund.org/"> the Brooklyn Community Bail Fund</a>, <a href="https://www.societyforscience.org/get-involved-individual/donate/"> the Society for Science and the Public (or your local ISEF-affiliated fair)</a>, <a href="https://couragetochangepac.org/"> the Courage to Change PAC (affiliated with AOC)</a>, <a href="https://en.wikipedia.org/wiki/Main_Page"> Wikipedia</a>, <a href="https://donate.torproject.org/"> the Tor project</a>, or <a href="https://secure.actblue.com/donate/ab_mn"> any of these organizations fighting against systemic racism and police brutality</a>.
+  <p> I recommend donating to <a href="https://www.thelifeyoucansave.org/"> the Life You Can Save (GiveDirectly, D-Rev, Evidence Action)</a>,<a href="https://bit.ly/3apaAcU"> the Intercept</a>, <a href="https://www.societyforscience.org/get-involved-individual/donate/"> the Society for Science and the Public (or your local ISEF-affiliated fair)</a>, <a href="https://couragetochangepac.org/"> the Courage to Change PAC (affiliated with AOC)</a>, <a href="https://en.wikipedia.org/wiki/Main_Page"> Wikipedia</a>, <a href="https://donate.torproject.org/"> the Tor project</a>, or <a href="https://secure.actblue.com/donate/ab_mn"> any of these organizations fighting against systemic racism and police brutality</a>.
 
 </p>
 </details>
