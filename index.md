@@ -27,7 +27,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
   Suha Hussain, Jim Miller 
 
-+ **To Be Announced (Work In Progress)** 
++ **To Be Announced** 
 
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
   
