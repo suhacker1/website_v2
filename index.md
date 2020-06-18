@@ -10,7 +10,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 3. I'm conducting research under [Professor Wenke Lee](https://wenke.gtisc.gatech.edu/) 
 
-4. I'm a software engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/)
+4. I'm an electrical and software engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/)
 
 My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
 
@@ -47,7 +47,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
    *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release 
 
-## RoboNav Software Team 
+## RoboNav Software and Electrical Teams
 
 + **[Multiclass Image Segmentation for Autonomous Vehicle Perception](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
