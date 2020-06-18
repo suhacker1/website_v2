@@ -23,7 +23,11 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 # Notable Work
 
 ## Trail of Bits
-+ **Privacy of Safe Browsing (Work In Progress)** 
++ **To Be Announced**
+
+  Suha Hussain, Jim Miller 
+
++ **To Be Announced (Work In Progress)** 
 
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
   
