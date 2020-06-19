@@ -79,7 +79,7 @@ My <a href="https://github.com/suhacker1">Github </a>contains various other proj
 
 <details>
 <summary> Favorite Films</summary>
-  <p> The Prestige. Snowpiercer. The Imitation Game. Parasite. </p>
+  <p> The Prestige. Snowpiercer. The Imitation Game. Parasite. V for Vendetta. </p>
 </details>
 
 <details>
