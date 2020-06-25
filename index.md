@@ -79,12 +79,12 @@ My <a href="https://github.com/suhacker1">Github </a>contains various other proj
 
 <details>
 <summary> Favorite Films</summary>
-  <p> The Prestige. Snowpiercer. The Imitation Game. Parasite. V for Vendetta. </p>
+  <p> The Prestige. Snowpiercer. The Imitation Game. Parasite. V for Vendetta. Da 5 Bloods </p>
 </details>
 
 <details>
 <summary> Favorite Books</summary>
-  <p> Snow Crash. The Information: A History, A Theory, A Flood. The Crying of Lot 49. Bleeding Edge. Narrative of the Life of Frederick Douglass, an American Slave. The Esssential Chomsky. Da 5 Bloods </p>
+  <p> Snow Crash. The Information: A History, A Theory, A Flood. The Crying of Lot 49. Bleeding Edge. Narrative of the Life of Frederick Douglass, an American Slave. The Esssential Chomsky </p>
 </details>
 
 <details>
