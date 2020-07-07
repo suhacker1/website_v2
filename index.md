@@ -12,7 +12,7 @@ I’m a native New Yorker working on problems in machine learning, security, and
 
 4. I'm an electrical and software engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/)
 
-My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, linguistics, STS, and speculative fiction. 
+My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, STS, and speculative fiction. 
 
 My resume can be found [here](https://sshussain.me/SH_R.pdf). My Google Scholar Profile can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
 
