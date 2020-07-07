@@ -1,24 +1,19 @@
 # About Me
 
-<!--- Hi there! I’m Suha- a security and privacy engineer specializing in machine learning, robotics, and cryptography. Right now, I’m working at [Trail of Bits]()- a software security firm in Lower Manhattan.I’m also earning my BS in Computer Science (Threads in [People]() and [Intelligence]()) at [Georgia Tech](), conducting research under [Prof. Wenke Lee](), and building robots as an electrical and software engineer on the [RoboJackets RoboNav Team](). Aside from these pursuits,  I’m keenly interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, writing, and martial arts. -->
+Hi there! I’m Suha- a security and privacy engineer specializing in machine learning, robotics, and cryptography. Right now, I’m working at [Trail of Bits]()- a software security firm in Lower Manhattan.
 
-Hi! My name is Suha Sabi Hussain and welcome to my site. 
+In addition, I’m pursuing a BS in Computer Science (Threads in [People]() and [Intelligence]()) at [Georgia Tech](), conducting research under [Prof. Wenke Lee](), and building robots as an electrical and software engineer on the [RoboJackets RoboNav Team](). 
 
-I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 
+I’m keenly interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, writing, and martial arts. -->
 
-1. I’m pursuing a BS in Computer Science ([People](https://www.cc.gatech.edu/content/people) & [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/)
-
+<!--- Hi! My name is Suha Sabi Hussain and welcome to my site. I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 1. I’m pursuing a BS in Computer Science ([People](https://www.cc.gatech.edu/content/people) & [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/)
 2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
-
 3. I'm conducting research under [Professor Wenke Lee](https://wenke.gtisc.gatech.edu/) 
-
 4. I'm an electrical and software engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/)
+My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, STS, and speculative fiction. -->
 
-My hobbies include martial arts, lock picking, traveling, eating, editing Wikipedia, [3D printing](https://sshussain.me/printing), and writing. My interests include public policy, film, comedy, microelectronics, statistics, STS, and speculative fiction. 
-
-My resume can be found [here](https://sshussain.me/SH_R.pdf). My Google Scholar Profile can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
-
-Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 'at' gmail 'dot' com.
+You can contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 'at' gmail 'dot' com. For more information, check out my [resume]() or [Google Scholar Profile](). 
+<!---My resume can be found [here](https://sshussain.me/SH_R.pdf). My Google Scholar Profile can be found [here](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en). Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 'at' gmail 'dot' com.-->
 
 <!--- Comment -->
 
