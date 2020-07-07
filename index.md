@@ -1,6 +1,6 @@
 
 
-# Who am I?
+## Who am I?
 
 Hi! I’m Suha- a security and privacy engineer specializing in machine learning, robotics, and cryptography. Right now, I’m working at [Trail of Bits]()- a software security firm in Lower Manhattan.
 
@@ -10,9 +10,9 @@ I’m greatly interested in privacy and civil liberties issues, human-computer i
 
 Feel free to contact me through [Twitter](https://twitter.com/suhackerr) or at *suhashussain1 'at' gmail 'dot' com*. Check out my [resume]() and [Google Scholar profile]() for more information. 
 
-# Notable Work
+## Notable Work
 
-## Trail of Bits
+### Trail of Bits
 
 + **To Be Announced**
 
@@ -24,7 +24,7 @@ Feel free to contact me through [Twitter](https://twitter.com/suhackerr) or at *
   
   *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP) under Professor Wenke Lee*
   
-## NYU Center for Cybersecurity
+### NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
 
@@ -42,7 +42,7 @@ Feel free to contact me through [Twitter](https://twitter.com/suhackerr) or at *
    
    *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release 
 
-## RoboNav Software and Electrical Teams
+### RoboNav Software and Electrical Teams
 
 + **[Multiclass Image Segmentation for Autonomous Vehicle Perception](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
@@ -50,7 +50,7 @@ Feel free to contact me through [Twitter](https://twitter.com/suhackerr) or at *
   
 + **[Unit Testing and Fuzzing for Firmware Systems (Work In Progress)](https://github.com/RoboJackets/igvc-firmware/tree/feat/tests)**
 
-# More Information 
+## More Information 
 
 <details>
 <summary> High School Activities</summary>
