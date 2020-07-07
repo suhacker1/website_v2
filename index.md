@@ -6,7 +6,7 @@ Hi! I’m Suha- a security and privacy engineer specializing in machine learning
 
 In addition, I’m pursuing a BS in Computer Science (Threads in [People]() and [Intelligence]()) at [Georgia Tech](), conducting research under [Prof. Wenke Lee](), and building robots as an electrical and software engineer on the [RoboJackets RoboNav Team](). 
 
-I’m keenly interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, writing, and martial arts. 
+I’m greatly interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, writing, and martial arts. 
 
 Feel free to contact me through [Twitter](https://twitter.com/suhackerr) or at *suhashussain1 'at' gmail 'dot' com*. Check out my [resume]() and [Google Scholar profile]() for more information. 
 
