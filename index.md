@@ -12,21 +12,16 @@ Feel free to contact me through [Twitter](https://twitter.com/suhackerr) or at *
 
 ## Trail of Bits
 + **To Be Announced**
-
   Suha Hussain, Jim Miller 
 
 + **To Be Announced** 
-
   Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
-  
   *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP) under Professor Wenke Lee*
   
 ## NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
-
     Kanad Basu, Suha Hussain, Ujjwal Gupta, Ramesh Karri
-   
    [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 [[ISEF Paper](https://sshussain.me/written_works/ISEF_Paper.pdf); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)]
    
    *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release
