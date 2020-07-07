@@ -4,7 +4,7 @@ Hi there! I’m Suha- a security and privacy engineer specializing in machine le
 
 In addition, I’m pursuing a BS in Computer Science (Threads in [People]() and [Intelligence]()) at [Georgia Tech](), conducting research under [Prof. Wenke Lee](), and building robots as an electrical and software engineer on the [RoboJackets RoboNav Team](). 
 
-I’m keenly interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, writing, and martial arts. -->
+I’m keenly interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, writing, and martial arts. 
 
 <!--- Hi! My name is Suha Sabi Hussain and welcome to my site. I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 1. I’m pursuing a BS in Computer Science ([People](https://www.cc.gatech.edu/content/people) & [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/)
 2. I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/) 
