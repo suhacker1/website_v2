@@ -1,5 +1,13 @@
 # About Me
 
+Hi there! I’m Suha- a security and privacy engineer specializing in machine learning, robotics, and cryptography. Right now, I’m working at Trail of Bits- a software security firm in Lower Manhattan.
+
+I’m also earning my BS in Computer Science (Threads in [People]() and [Intelligence]()) at [Georgia Tech](), conducting research under [Prof. Wenke Lee](), and building robots as an electrical and software engineer on the [RoboJackets RoboNav Team](). 
+
+
+Aside from these pursuits,  I’m keenly interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, writing, and martial arts. 
+
+
 Hi! My name is Suha Sabi Hussain and welcome to my site. 
 
 I’m a native New Yorker working on problems in machine learning, security, and privacy. Right now: 
