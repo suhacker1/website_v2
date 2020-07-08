@@ -2,9 +2,9 @@
 
 Hi! I’m Suha- a **security** and **privacy** engineer specializing in **machine learning**, **robotics**, and **cryptography**. Right now, I’m working at [Trail of Bits]()- a software security firm in Lower Manhattan.
 
-In addition, I’m pursuing a BS in Computer Science (Threads in [People](https://www.cc.gatech.edu/content/people) and [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/), conducting research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/), and building robots as an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/). 
+Additionally, I’m pursuing a BS in Computer Science (Threads in [People](https://www.cc.gatech.edu/content/people) and [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/), conducting research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/), and building robots as an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/). 
 
-I'm also quite intereted in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, [3D printing](https://sshussain.me/printing), writing, and martial arts. 
+I'm also quite interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, [3D printing](https://sshussain.me/printing), writing, and martial arts. 
 
 Feel free to contact me through [Twitter](https://twitter.com/suhackerr) or at *suhashussain1 'at' gmail 'dot' com*. Check out my [resume](https://sshussain.me/SH_R.pdf) and [Google Scholar profile](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en) for more information. 
 
