@@ -1,19 +1,10 @@
 ## About Me
 
-I’m a security and privacy engineer primarily interested in machine learning, cryptography, and program analysis. Currently, I’m interning at [Trail of Bits](https://www.trailofbits.com/). 
-
-
-
+<ins>I’m a security and privacy engineer primarily interested in machine learning, cryptography, and program analysis</ins>. Currently, I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/). 
 
 I’m pursuing a BS in Computer Science (Threads: [People](https://www.cc.gatech.edu/content/people) and [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/) where I conduct research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). I’m also an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/).
 
-
-
-
-In addition to my professional pursuits, I’m quite interested in privacy and civil liberties issues, human-computer interaction, cultural studies, cyberpunk and postmodern media, world cuisines, [3D printing](https://sshussain.me/printing), writing, and martial arts.
-
-
-
+In addition to my professional pursuits, I’m quite interested in privacy and civil liberties issues, [human-computer interaction](), cultural studies, [cyberpunk and postmodern media](), world cuisines, [3D printing](https://sshussain.me/printing), writing, and martial arts.
 
 Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘dot’ com. For more details, here is my [resume](https://sshussain.me/SH_R.pdf) and [Google Scholar Profile](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
 
