@@ -1,6 +1,6 @@
 ## About Me
 
-<ins>I’m a security and privacy engineer primarily interested in machine learning, cryptography, and program analysis</ins>. Currently, I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/). 
+[I’m a security and privacy engineer primarily interested in machine learning, cryptography, and program analysis](). Currently, I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/). 
 
 I’m pursuing a BS in Computer Science (Threads: [People](https://www.cc.gatech.edu/content/people) and [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/) where I conduct research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). I’m also an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/).
 
