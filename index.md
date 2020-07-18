@@ -22,11 +22,15 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
     
-   [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 [[ISEF Paper](https://sshussain.me/written_works/ISEF_Paper.pdf); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)]
+   [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 
+   
+   [[ISEF Paper](https://sshussain.me/written_works/ISEF_Paper.pdf); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)]
       
 + **A New Method for the Exploitation of Speech Recognition Systems** 
       
-   [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk at the NSA Research Directorate, 2018 [[ISEF Paper](https://sshussain.me/written_works/speech_paper.pdf); [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
+   [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk at the NSA Research Directorate, 2018 
+   
+   [[ISEF Paper](https://sshussain.me/written_works/speech_paper.pdf); [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
    
 ### RoboNav Software and Electrical Teams
 
