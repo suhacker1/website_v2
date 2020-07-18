@@ -12,11 +12,11 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 
 ### Trail of Bits
 
-+ **To Be Announced**
++ **To Be Announced: Machine Learning Privacy Project**
 
-+ **To Be Announced** 
++ **To Be Announced: Internet Privacy Project** 
   
-  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP) under Professor Wenke Lee*
+  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP)*
   
 ### NYU Center for Cybersecurity
 
