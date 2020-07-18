@@ -16,7 +16,7 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 
 + **To Be Announced: Internet Privacy Project** 
   
-  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP)*
+  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy*
   
 ### NYU Center for Cybersecurity
 
