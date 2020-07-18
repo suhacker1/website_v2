@@ -12,34 +12,22 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 
 ### Trail of Bits
 
-+ **To Be Announced**
++ **To Be Announced: Machine Learning Privacy Project**
 
-  Suha Hussain, Jim Miller 
-
-+ **To Be Announced** 
-
-  Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
++ **To Be Announced: Internet Privacy Project** 
   
-  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP) under Professor Wenke Lee*
+  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP)*
   
 ### NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
-
-    Kanad Basu, Suha Hussain, Ujjwal Gupta, Ramesh Karri
     
    [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 [[ISEF Paper](https://sshussain.me/written_works/ISEF_Paper.pdf); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)]
-   
-   *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release
-   
+      
 + **A New Method for the Exploitation of Speech Recognition Systems** 
-   
-   Suha Hussain, Zahra Ghodsi, Ramesh Karri
-   
+      
    [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk at the NSA Research Directorate, 2018 [[ISEF Paper](https://sshussain.me/written_works/speech_paper.pdf); [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
    
-   *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release 
-
 ### RoboNav Software and Electrical Teams
 
 + **[Multiclass Image Segmentation for Autonomous Vehicle Perception](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
@@ -51,19 +39,15 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 ## More Information 
 
 <details>
-<summary> High School Activities</summary>
-  <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. Outside of school, I freelanced, conducted research under <a href="https://en.wikipedia.org/wiki/Ramesh_Karri">Prof. Ramesh Karri</a> at <a href="http://cyber.nyu.edu/">NYU CCS</a>, and completed a hardware engineering internship at <a href="https://vengolabs.com/">Vengo Labs</a> (<a href="https://sshussain.me/projects/vengo_rec.pdf">Recommendation Letter</a>). </p>
+<summary> Research Awards </summary>
+  <p> <b> For "A New Method for the Exploitation of Speech Recognition Systems": </b> ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release  </p>
+  <p> <b> For "COPPTCHA: COPPA Tracking by Checking Hardware-level Activity":  </b> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
 </details>
 
 <details>
-<summary> High School Awards</summary>
-  <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. NCWIT NYC Honorable Mention </p>
-</details>
-
-<details> 
-<summary> High School Projects</summary>
-  <p> Aside from my research at NYU, I worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Examples: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>). <a href="https://github.com/suhacker1/conveyor_belt"> I also programmed and built a conveyor belt at Vengo Labs among my other responsibilities.</a>
-My <a href="https://github.com/suhacker1">GitHub </a>contains some other projects I worked on during this time period.</p>
+<summary> High School Activities </summary>
+  <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. Outside of school, I freelanced, conducted research under <a href="https://en.wikipedia.org/wiki/Ramesh_Karri">Prof. Ramesh Karri</a> at <a href="http://cyber.nyu.edu/">NYU CCS</a>, and completed a hardware engineering internship at <a href="https://vengolabs.com/">Vengo Labs</a> (<a href="https://sshussain.me/projects/vengo_rec.pdf">Recommendation Letter</a>). I notably worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Examples: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>) <a href="https://github.com/suhacker1/conveyor_belt"> and a conveyor belt at Vengo Labs</a> along with other projects featured on my <a href="https://github.com/suhacker1">GitHub. </a> </p>
+    <p> <b>Awards:</b> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. NCWIT NYC Honorable Mention </p>
 </details>
 
 <details>
