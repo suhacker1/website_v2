@@ -14,32 +14,20 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 
 + **To Be Announced**
 
-  Suha Hussain, Jim Miller 
-
 + **To Be Announced** 
-
-  Suha Hussain, Max Zinkus, Benjamin Perez, Matthew Green
   
   *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy (IISP) under Professor Wenke Lee*
   
 ### NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
-
-    Kanad Basu, Suha Hussain, Ujjwal Gupta, Ramesh Karri
     
    [IEEE TIFS, 2020](https://ieeexplore.ieee.org/abstract/document/9049424); Invited talk for the NSA Board of Directors, 2019 [[ISEF Paper](https://sshussain.me/written_works/ISEF_Paper.pdf); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)]
-   
-   *Honors*: ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release
-   
+      
 + **A New Method for the Exploitation of Speech Recognition Systems** 
-   
-   Suha Hussain, Zahra Ghodsi, Ramesh Karri
-   
+      
    [C3E Workshop Poster, 2018](https://cps-vo.org/node/55909); Invited talk at the NSA Research Directorate, 2018 [[ISEF Paper](https://sshussain.me/written_works/speech_paper.pdf); [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)]
    
-   *Honors*: ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release 
-
 ### RoboNav Software and Electrical Teams
 
 + **[Multiclass Image Segmentation for Autonomous Vehicle Perception](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
@@ -52,7 +40,8 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 
 <details>
 <summary> Research Awards </summary>
-  <p> Coming Soon </p>
+  <p> <b> For "A New Method for the Exploitation of Speech Recognition Systems": </b> ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release  </p>
+  <p> <b> For "COPPTCHA: COPPA Tracking by Checking Hardware-level Activity":  </b> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
 </details>
 
 <details>
