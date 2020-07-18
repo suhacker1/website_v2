@@ -51,19 +51,14 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 ## More Information 
 
 <details>
-<summary> High School Activities</summary>
-  <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. Outside of school, I freelanced, conducted research under <a href="https://en.wikipedia.org/wiki/Ramesh_Karri">Prof. Ramesh Karri</a> at <a href="http://cyber.nyu.edu/">NYU CCS</a>, and completed a hardware engineering internship at <a href="https://vengolabs.com/">Vengo Labs</a> (<a href="https://sshussain.me/projects/vengo_rec.pdf">Recommendation Letter</a>). </p>
+<summary> Research Awards </summary>
+  <p> Coming Soon </p>
 </details>
 
 <details>
-<summary> High School Awards</summary>
-  <p> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. NCWIT NYC Honorable Mention </p>
-</details>
-
-<details> 
-<summary> High School Projects</summary>
-  <p> Aside from my research at NYU, I worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Examples: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>). <a href="https://github.com/suhacker1/conveyor_belt"> I also programmed and built a conveyor belt at Vengo Labs among my other responsibilities.</a>
-My <a href="https://github.com/suhacker1">GitHub </a>contains some other projects I worked on during this time period.</p>
+<summary> High School Activities </summary>
+  <p> I graduated from Queens High School for the Sciences, a specialized STEM high school in NYC,  in June 2019.  There, I was the Chief Trainer (Head TA) for QHSS Math Research, the CTO of STEMinism, the founder and captain of the robotics team, the founder and captain of Team Cyber and the Da Vinci Experiment, and a member of Urban Sketchers. Outside of school, I freelanced, conducted research under <a href="https://en.wikipedia.org/wiki/Ramesh_Karri">Prof. Ramesh Karri</a> at <a href="http://cyber.nyu.edu/">NYU CCS</a>, and completed a hardware engineering internship at <a href="https://vengolabs.com/">Vengo Labs</a> (<a href="https://sshussain.me/projects/vengo_rec.pdf">Recommendation Letter</a>). I notably worked on the <a href="https://github.com/jchen42703/MathResearchQHSS">QHSS Math Research Repository</a> (Examples: <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/Ridge_Regression_for_Prostitution">Ridge Regression</a>, <a href="https://github.com/jchen42703/MathResearchQHSS/tree/master/tutorials">Deep Learning</a>) <a href="https://github.com/suhacker1/conveyor_belt"> and a conveyor belt at Vengo Labs</a> along with other projects featured on my <a href="https://github.com/suhacker1">GitHub. </a> </p>
+    <p> <b>Awards:</b> NY State Senate Youth Leadership Recognition. Principal's Honor Roll/List. GW Award for Excellence in STEM. Silver Medal for Excellence in English. UFT Certificate of Merit for CS Applications. Math Research Award. Awards for AP Statistics, US, and World History.  ED Certificate for Excellence in Reading. Joseph E. Collins Scholarship. NCWIT NYC Honorable Mention </p>
 </details>
 
 <details>
