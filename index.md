@@ -19,6 +19,8 @@ Contact me through Twitter or at suhashussain1 ‘at’ gmail ‘dot’ com. For
     Empire Hacking; OpenMined Privacy Conference; DEFCON AI Village Journal Club
     
    [[GitHub Repository](); [Blog Post](); [Arxiv Preprint]()]
+   
++ **Security Audit**
 
 + **To Be Announced: Internet Privacy Project** 
   
