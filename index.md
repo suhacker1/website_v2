@@ -22,6 +22,8 @@ Contact me through Twitter or at suhashussain1 ‘at’ gmail ‘dot’ com. For
    
 + **Security Audit of the ZCoin Lelantus Protocol**
 
+   [[Audit Summary Report](); [ZCoin Announcement](); [Lelantus White Paper]()]
+
 + **To Be Announced: Internet Privacy Project** 
   
   *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy*
