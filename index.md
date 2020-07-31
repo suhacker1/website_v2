@@ -1,18 +1,27 @@
 ## About Me
 
-[**I’m a security and privacy engineer primarily interested in machine learning, cryptography, and program analysis**](). Currently, I’m a security engineering intern at [Trail of Bits](https://www.trailofbits.com/). 
+[**I’m a security and privacy engineer primarily interested in machine learning, cryptography, and program analysis**](). 
+Currently, I’m an intern at [Trail of Bits](https://www.trailofbits.com/). 
 
-I’m pursuing a BS in Computer Science (Threads: [People](https://www.cc.gatech.edu/content/people) and [Intelligence](https://www.cc.gatech.edu/intelligence)) at [Georgia Tech](https://cc.gatech.edu/) where I conduct research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). I’m also an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/).
+I’m pursuing a BS in Computer Science with threads in theoretical computer science ("Theory") and human-computer interaction ("People") at [Georiga Tech](http://www.catalog.gatech.edu/programs/theory-people-computer-science-bs/) where I also conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
+In addition, I’m an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/).
 
-In addition to my professional pursuits, I’m quite interested in privacy and civil liberties issues, [human-computer interaction](https://github.com/suhacker1/verify_privacy_interface), cultural studies, [cyberpunk and postmodern media](), world cuisines, [3D printing](https://sshussain.me/printing), writing, and martial arts.
+<!---Much of my time is dedicated to maintaining [PrivacyRaven]()- a comprehensive privacy testing library for deep learning- and running the [DEFCON AI Village Privacy and Ethics Journal Club](). -->
+In addition to my professional pursuits, I’m quite interested in privacy and civil liberties issues, cultural studies, category theory, cyberpunk and postmodern media, world cuisines, 3D printing, writing, and martial arts.
 
-Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘dot’ com. For more details, here is my [resume](https://sshussain.me/SH_R.pdf) and [Google Scholar Profile](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
+Contact me through Twitter or at suhashussain1 ‘at’ gmail ‘dot’ com. For more details, here is my [resume](https://sshussain.me/SH_R.pdf) and [Google Scholar Profile](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
 
 ## Notable Work
 
 ### Trail of Bits
 
-+ **To Be Announced: Machine Learning Privacy Project**
++ **PrivacyRaven: A Comphrehensive Privacy Testing Suite for Deep Learning**
+
+    Empire Hacking; OpenMined Privacy Conference; DEFCON AI Village Journal Club
+    
+   [Materials Coming Soon ]()
+   
+<!---+ **Security Audit of the ZCoin Lelantus Protocol** [[Audit Summary Report](); [ZCoin Announcement](); [Lelantus White Paper]()]-->
 
 + **To Be Announced: Internet Privacy Project** 
   
@@ -56,7 +65,7 @@ Feel free to contact me through Twitter or at suhashussain1 ‘at’ gmail ‘do
 
 <details>
 <summary> Favorite Films</summary>
-  <p> The Prestige. Snowpiercer. The Imitation Game. Parasite. V for Vendetta. Da 5 Bloods. Spider-Man: Into the Spider-Verse</p>
+  <p> The Prestige. Snowpiercer. Parasite. V for Vendetta. Da 5 Bloods. Spider-Man: Into the Spider-Verse</p>
 </details>
 
 <details>
