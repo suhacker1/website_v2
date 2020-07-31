@@ -15,7 +15,7 @@ Contact me through Twitter or at suhashussain1 ‘at’ gmail ‘dot’ com. For
 
 ### Trail of Bits
 
-+ **PrivacyRaven: A Comphrehensive Privacy Testing Suite for Deep Learning**
++ **PrivacyRaven: A Comprehensive Privacy Testing Suite for Deep Learning**
 
     Empire Hacking; OpenMined Privacy Conference; DEFCON AI Village Journal Club (2020)
     
