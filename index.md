@@ -7,7 +7,7 @@ I’m pursuing a BS in Computer Science with threads in theoretical computer sci
 In addition, I’m an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/).
 
 <!---Much of my time is dedicated to maintaining [PrivacyRaven]()- a comprehensive privacy testing library for deep learning- and running the [DEFCON AI Village Privacy and Ethics Journal Club](). -->
-Aside from my professional pursuits, I’m quite interested in privacy and civil liberties issues, cultural studies, category theory, cyberpunk and postmodern media, world cuisines, 3D printing, writing, and martial arts.
+Aside from my professional pursuits, I’m quite interested in privacy and civil liberties issues, cultural studies, cyberpunk and postmodern media, world cuisines, 3D printing, writing, and martial arts.
 
 Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 ‘at’ gmail ‘dot’ com. For more details, here is my [resume](https://sshussain.me/SH_R.pdf) and [Google Scholar Profile](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
 
