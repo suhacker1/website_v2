@@ -4,7 +4,7 @@
 Currently, I’m an intern at [Trail of Bits](https://www.trailofbits.com/). 
 
 I’m pursuing a BS in Computer Science with threads in theoretical computer science ("Theory") and human-computer interaction ("People") at [Georgia Tech](http://www.catalog.gatech.edu/programs/theory-people-computer-science-bs/) where I also conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
-In addition, I’m an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/).
+In addition, I’m an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I organize the weekly [AI Privacy and Ethics Journal Club](https://aivillage.org/hacker-journal-club) at the DEF CON AI Village. 
 
 <!---Much of my time is dedicated to maintaining [PrivacyRaven]()- a comprehensive privacy testing library for deep learning- and running the [DEFCON AI Village Privacy and Ethics Journal Club](). -->
 Aside from my professional pursuits, I’m quite interested in privacy and civil liberties issues, cultural studies, cyberpunk and postmodern media, world cuisines, 3D printing, writing, and martial arts.
@@ -17,9 +17,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 + **PrivacyRaven: A Comprehensive Privacy Testing Suite for Deep Learning**
 
-    Empire Hacking; OpenMined Privacy Conference; DEFCON AI Village Journal Club (2020)
+    Empire Hacking; OpenMined Privacy Conference; DEF CON AI Village Journal Club (2020)
     
-   [Materials Coming Soon ]()
+    [Slides for Empire Hacking](); [More Materials Coming Soon ]()
    
 <!---+ **Security Audit of the ZCoin Lelantus Protocol** [[Audit Summary Report](); [ZCoin Announcement](); [Lelantus White Paper]()]-->
 
