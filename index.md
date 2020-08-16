@@ -33,10 +33,10 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    
    [[ISEF Paper](https://sshussain.me/written_works/ISEF_Paper.pdf); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a); [IEEE TIFS Paper](https://ieeexplore.ieee.org/abstract/document/9049424)]
    
-<details>
-    <summary> Research Awards </summary>
-    <p> <b> For "COPPTCHA: COPPA Tracking by Checking Hardware-level Activity":  </b> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
-</details>
+    <details>
+        <summary> Research Awards </summary>
+        <p> <b> For "COPPTCHA: COPPA Tracking by Checking Hardware-level Activity":  </b> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
+    </details>
 
    
 + **A New Method for the Exploitation of Speech Recognition Systems** 
