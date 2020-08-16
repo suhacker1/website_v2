@@ -37,8 +37,8 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     <details>
         <summary> <b> List of Awards </b> </summary>
         <p> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
-    </details>
-<br/>
+    </details> 
+    &nbsp  
 
 + **A New Method for the Exploitation of Speech Recognition Systems** 
       
