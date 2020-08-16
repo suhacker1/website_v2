@@ -36,19 +36,18 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 
     <details>
-        <summary> <b> List of Awards </b> </summary>
-        <p> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
-    </details>
+        <summary> <b> Honors and Awards </b> </summary>
+        <p> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p> </details>
     <hr style="height:5px; visibility:hidden;" />
 + **A New Method for the Exploitation of Speech Recognition Systems** 
       
-   C3E Workshop: Poster (Sponsored by the Department of Defense); Invited talk at the NSA Research Directorate (2018)
+   C3E Workshop: Poster (Sponsored by the DoD); Invited talk at the NSA Research Directorate (2018)
    
    [[ISEF Paper](https://sshussain.me/written_works/speech_paper.pdf); [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification); [C3E Poster](https://cps-vo.org/node/55909)]    
    
    
    <details>
-        <summary> <b> List of Awards </b> </summary>
+        <summary> <b> Honors and Awards </b> </summary>
          <p> ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release  </p>
    </details>
    
@@ -84,11 +83,5 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
   <p> I recommend donating to <a href="https://www.thelifeyoucansave.org/"> the Life You Can Save (GiveDirectly, D-Rev, Evidence Action)</a>,<a href="https://bit.ly/3apaAcU"> the Intercept</a>, <a href="https://housingrightsny.org/"> the Housing Rights Initiative</a>, <a href="https://couragetochangepac.org/"> the Courage to Change PAC (affiliated with AOC)</a>, <a href="https://en.wikipedia.org/wiki/Main_Page"> Wikipedia</a>, <a href="https://donate.torproject.org/"> the Tor project</a>, or <a href="https://secure.actblue.com/donate/ab_mn"> any of these organizations fighting against systemic racism and police brutality</a>.
 
 </p>
-</details>
-
-<details>
-<summary> Research Awards </summary>
-  <p> <b> For "A New Method for the Exploitation of Speech Recognition Systems": </b> ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release  </p>
-  <p> <b> For "COPPTCHA: COPPA Tracking by Checking Hardware-level Activity":  </b> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
 </details>
 
