@@ -25,9 +25,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
   
   *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy*
   
-  
-  
-  
+ 
 ### NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
@@ -41,7 +39,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
         <summary> <b> List of Awards </b> </summary>
         <p> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p>
     </details>
-    <hr style="height:10px; visibility:hidden;" />
+    <hr style="height:7px; visibility:hidden;" />
 + **A New Method for the Exploitation of Speech Recognition Systems** 
       
    C3E Workshop: Poster (Sponsored by the Department of Defense); Invited talk at the NSA Research Directorate (2018)
@@ -53,8 +51,6 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
         <summary> <b> List of Awards </b> </summary>
          <p> ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release  </p>
    </details>
-   
-   
    
    
 ### RoboNav Software and Electrical Teams
