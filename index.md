@@ -4,7 +4,7 @@
 Currently, I’m an intern at [Trail of Bits](https://www.trailofbits.com/). 
 
 I’m pursuing a BS in Computer Science with threads in theoretical computer science ("Theory") and human-computer interaction ("People") at [Georgia Tech](http://www.catalog.gatech.edu/programs/theory-people-computer-science-bs/) where I also conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
-In addition, I’m an electrical and software engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I help organize a weekly [AI Privacy and Ethics Journal Club](https://aivillage.org/hacker-journal-club) under the Def Con AI Village. 
+In addition, I’m a robotics engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I help organize a weekly [AI Privacy and Ethics Journal Club](https://aivillage.org/hacker-journal-club) under the Def Con AI Village. 
 
 Aside from my professional pursuits, I’m quite interested in privacy and civil liberties issues, cultural studies, cyberpunk and postmodern media, world cuisines, 3D printing, writing, and martial arts. 
 Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 ‘at’ gmail ‘dot’ com. For more details, here is my [resume](https://sshussain.me/SH_R.pdf) and [Google Scholar Profile](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
@@ -52,7 +52,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
    </details>
    
    
-### RoboNav Software and Electrical Teams
+### RoboJackets RoboNav
 
 + **[Multiclass Image Segmentation for Autonomous Vehicle Perception](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
