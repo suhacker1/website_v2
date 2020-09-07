@@ -17,7 +17,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
     Empire Hacking; OpenMined Privacy Conference; DEF CON AI Village Journal Club (2020)
     
-    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven); [Empire Hacking Slides](https://sshussain.me/projects/privacyraven_eh.pdf)
+    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven); [OpenMined PriCon Slides](https://sshussain.me/projects/pr_om.pdf); [Empire Hacking Slides](https://sshussain.me/projects/privacyraven_eh.pdf)
    
 <!---+ **(Shadow) Security Audit of the ZCoin Lelantus Protocol** [[Audit Summary Report](); [ZCoin Announcement](); [Lelantus White Paper]()]-->
 
