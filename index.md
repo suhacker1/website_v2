@@ -57,9 +57,12 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 + **[Multiclass Image Segmentation for Autonomous Vehicle Perception](https://github.com/RoboJackets/igvc-software/tree/master/igvc_perception/src/multiclass_segmentation)**
 
 + **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
-  
-+ **[Unit Testing and Fuzzing for Firmware Systems (Work In Progress)](https://github.com/RoboJackets/igvc-firmware/tree/feat/tests)**
 
++ **[Debugger and Emulator for Firmware Systems(In Progress)]()**
+
++ **[Unit Tests and Fuzzers for Firmware Systems(In Progress)]()**
+
+  
 ## More Information 
 
 <details>
