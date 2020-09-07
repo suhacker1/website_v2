@@ -60,9 +60,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 + **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
 
-+ **[Debugger and Emulator for Firmware Systems(In Progress)]()**
++ **[Debugger and Emulator for Firmware Systems (In Progress)]()**
 
-+ **[Unit Tests and Fuzzers for Firmware Systems(In Progress)]()**
++ **[Unit Tests and Fuzzers for Firmware Systems (In Progress)]()**
 
   
 ## More Information 
