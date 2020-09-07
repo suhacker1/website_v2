@@ -19,7 +19,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     
     [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven); [OpenMined PriCon Slides](https://sshussain.me/projects/pr_om.pdf); [Empire Hacking Slides](https://sshussain.me/projects/privacyraven_eh.pdf)
    
-<!---+ **(Shadow) Security Audit of the ZCoin Lelantus Protocol** [[Audit Summary Report](); [ZCoin Announcement](); [Lelantus White Paper]()]-->
++ **(Shadow) Security Audit of the ZCoin Lelantus Protocol** 
+
+    [[Audit Summary Report](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf); [Lelantus White Paper](https://eprint.iacr.org/2019/373.pdf)]
 
 + **To Be Announced: Internet Privacy Project** 
   
