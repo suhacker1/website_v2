@@ -17,9 +17,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
     Empire Hacking; OpenMined Privacy Conference; DEF CON AI Village Journal Club (2020)
     
-    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven); [Blog Post Soon]()
-    
-    [OpenMined PriCon Slides](https://sshussain.me/projects/pr_om.pdf); [Empire Hacking Slides](https://sshussain.me/projects/privacyraven_eh.pdf)
+    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven); [Blog Post Soon](); [OpenMined PriCon Slides](https://sshussain.me/projects/pr_om.pdf); [Empire Hacking Slides](https://sshussain.me/projects/privacyraven_eh.pdf)
    
 + **(Shadow) Security Audit of the ZCoin Lelantus Protocol** 
 
@@ -36,9 +34,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     
    IEEE TIFS (2020); Invited talk for the NSA Board of Directors (2019)
    
-   [**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf); [IEEE TIFS Paper](https://ieeexplore.ieee.org/abstract/document/9049424)
-   
-   [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)
+   [**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf); [IEEE TIFS Paper](https://ieeexplore.ieee.org/abstract/document/9049424); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)
 
     <details>
         <summary> <b> Honors and Awards </b> </summary>
@@ -48,9 +44,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
       
    C3E Workshop: Poster (DoD Sponsored); Invited talk at the NSA Research Directorate (2018)
    
-   [**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf); [C3E Poster](https://cps-vo.org/node/55909)
-   
-   [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)
+   [**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf); [C3E Poster](https://cps-vo.org/node/55909); [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)
    
    
    <details>
