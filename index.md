@@ -48,7 +48,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
       
    C3E Workshop: Poster (DoD Sponsored); Invited talk at the NSA Research Directorate (2018)
    
-   [**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf); [C3E Poster](https://cps-vo.org/node/55909)]    
+   [**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf); [C3E Poster](https://cps-vo.org/node/55909)
    
    [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)
    
