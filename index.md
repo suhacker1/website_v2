@@ -44,7 +44,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
          
    *Computational Cybersecurity in Compromised Environments (Department of Defense Workshop)*. 2018. [[Poster](https://cps-vo.org/node/55909)]
    
-   Invited talk at the NSA Research Directorate. 2018. [**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf); [Slides](https://sshussain.me/written_works/speech_slides.pdf)
+   Invited talk at the NSA Research Directorate. 2018. [[**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf), [Slides](https://sshussain.me/written_works/speech_slides.pdf)]
    
  
    <details>
