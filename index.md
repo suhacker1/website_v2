@@ -25,14 +25,14 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 + **To Be Announced: Cryptography & Internet Privacy Research Project** 
   
-  Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy
+  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy*
   
 
 ### NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
-    
-   *IEEE Transactions on Information Forensics and Security*. 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [Data Collection](https://github.com/suhacker1/hpc-a)] 
+
+    IEEE Transactions on Information Forensics and Security. 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [Data Collection](https://github.com/suhacker1/hpc-a)] 
    
    Invited talk for the [NSA Board of Directors](https://cps-vo.org/node/35202#ISEF2019). 2019. [[**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf), [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf)]
 
@@ -42,7 +42,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     <hr style="height:5px; visibility:hidden;" />
 + **A New Method for the Exploitation of Speech Recognition Systems** 
          
-   *Computational Cybersecurity in Compromised Environments (Department of Defense Workshop)*. 2018. [[Poster](https://cps-vo.org/node/55909)]
+   Computational Cybersecurity in Compromised Environments (Department of Defense Workshop). 2018. [[Poster](https://cps-vo.org/node/55909)]
    
    Invited talk at the NSA Research Directorate. 2018. [[**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf), [Slides](https://sshussain.me/written_works/speech_slides.pdf)]
    
