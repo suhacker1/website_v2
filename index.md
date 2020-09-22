@@ -15,9 +15,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     
 + **PrivacyRaven: Privacy Testing for Deep Learning**
 
-    Presentations at [Empire Hacking](https://www.empirehacking.nyc/archive/) [[Slides](https://sshussain.me/projects/privacyraven_eh.pdf)], [DEF CON AI Village Journal Club](https://aivillage.org/hacker-journal-club), & [OpenMined Privacy Conference](https://pricon.openmined.org/) [[Slides](https://sshussain.me/projects/pr_om.pdf)], 2020. 
+    Presented at [Empire Hacking](https://www.empirehacking.nyc/archive/) [[Slides](https://sshussain.me/projects/privacyraven_eh.pdf)], [DEF CON AI Village Journal Club](https://aivillage.org/hacker-journal-club), & [OpenMined Privacy Conference](https://pricon.openmined.org/) [[Slides](https://sshussain.me/projects/pr_om.pdf)], 2020. 
     
-    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven). [**Trail of Bits Blog Post**]()
+    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven). [**Blog Post**]()
    
 + **(Shadow) Security Audit of the ZCoin Lelantus Protocol** 
 
