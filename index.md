@@ -12,29 +12,29 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 ## Notable Work
 
 ### Trail of Bits
-
+    
 + **PrivacyRaven: Privacy Testing for Deep Learning**
 
-    Empire Hacking; OpenMined Privacy Conference; DEF CON AI Village Journal Club (2020)
+    Presentations at Empire Hacking ([Slides](https://sshussain.me/projects/privacyraven_eh.pdf)), DEF CON AI Village Journal Club, & OpenMined Privacy Conference ([Slides](https://sshussain.me/projects/pr_om.pdf))
     
-    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven); [Blog Post Soon](); [OpenMined PriCon Slides](https://sshussain.me/projects/pr_om.pdf); [Empire Hacking Slides](https://sshussain.me/projects/privacyraven_eh.pdf)
+    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven) | [**Trail of Bits Blog Post**]()
    
 + **(Shadow) Security Audit of the ZCoin Lelantus Protocol** 
 
-    [**Audit Summary Report**](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf); [Lelantus White Paper](https://eprint.iacr.org/2019/373.pdf)
+    [**Audit Summary Report**](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf) | [Lelantus White Paper](https://eprint.iacr.org/2019/373.pdf)
 
 + **To Be Announced: Internet Privacy Project** 
   
   *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy*
   
- 
+
 ### NYU Center for Cybersecurity
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
     
-   IEEE TIFS (2020); Invited talk for the NSA Board of Directors (2019)
+   IEEE Transactions on Information Forensics and Security, 2020 [[Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [Data Collection](https://github.com/suhacker1/hpc-a)] 
    
-   [**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf); [IEEE TIFS Paper](https://ieeexplore.ieee.org/abstract/document/9049424); [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf); [Data Collection](https://github.com/suhacker1/hpc-a)
+   Invited talk for the NSA Board of Directors, 2019 [[**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf), [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf)]
 
     <details>
         <summary> <b> Honors and Awards </b> </summary>
