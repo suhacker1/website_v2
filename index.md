@@ -34,23 +34,19 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     
    *IEEE Transactions on Information Forensics and Security*. 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [Data Collection](https://github.com/suhacker1/hpc-a)] 
    
-   Invited talk for the [NSA Board of Directors](https://cps-vo.org/node/35202#ISEF2019), 2019 [[**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf), [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf)]
+   Invited talk for the [NSA Board of Directors](https://cps-vo.org/node/35202#ISEF2019). 2019. [[**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf), [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf)]
 
     <details>
         <summary> <b> Honors and Awards </b> </summary>
         <p> ACM 1st Award (ISEF), NSA-RD First “Science Security” Award (ISEF), NYCSEF 1st Award in Math and CS, NYC JSHS 3rd in CS (JSHS), The Cardinals Press Release </p> </details>
     <hr style="height:5px; visibility:hidden;" />
 + **A New Method for the Exploitation of Speech Recognition Systems** 
-      
-   C3E Workshop: Poster (DoD Sponsored); Invited talk at the NSA Research Directorate (2018)
+         
+   *Computational Cybersecurity in Compromised Environments (Department of Defense Workshop)*. 2018. [[Poster](https://cps-vo.org/node/55909)]
    
-   *Computational Cybersecurity in Compromised Environments (Department of Defense Workshop) Poster*, 2018 [[C3E Poster](https://cps-vo.org/node/55909)]
+   Invited talk at the NSA Research Directorate. 2018. [**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf); [Slides](https://sshussain.me/written_works/speech_slides.pdf)
    
-   Invited talk at the NSA Research Directorate
-   
-   [**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf); [C3E Poster](https://cps-vo.org/node/55909); [Slides](https://sshussain.me/written_works/speech_slides.pdf); [Sample Code](https://github.com/suhacker1/phonetic-classification)
-   
-   
+ 
    <details>
         <summary> <b> Honors and Awards </b> </summary>
          <p> ISEF 2nd Award in Systems Software, Shanghai STEM Cloud Award (ISEF), NSA-RD 2nd “Science Security” Award (ISEF), GoDaddy Data Award (ISEF), ACM 4th Award (ISEF), NYCSEF 1st Award in Math and CS, Sarah and Morris Wiesenthal Award (NYCSEF), Naval Science Award (NYCSEF), NYU Tandon Press Release  </p>
