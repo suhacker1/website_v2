@@ -23,9 +23,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
     [**Audit Summary Report**](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf). [Lelantus White Paper](https://eprint.iacr.org/2019/373.pdf)
 
-+ **To Be Announced: Internet Privacy Project** 
++ **To Be Announced: Cryptography & Internet Privacy Research Project** 
   
-  *Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy*
+  Simultaneously conducted at the Georgia Tech Institute for Information Security & Privacy
   
 
 ### NYU Center for Cybersecurity
