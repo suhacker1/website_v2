@@ -17,11 +17,11 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
     Presentations at [Empire Hacking](https://www.empirehacking.nyc/archive/) [[Slides](https://sshussain.me/projects/privacyraven_eh.pdf)], [DEF CON AI Village Journal Club](https://aivillage.org/hacker-journal-club), & [OpenMined Privacy Conference](https://pricon.openmined.org/) [[Slides](https://sshussain.me/projects/pr_om.pdf)]. 2020. 
     
-    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven) | [**Trail of Bits Blog Post**]()
+    [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven). [**Trail of Bits Blog Post**]()
    
 + **(Shadow) Security Audit of the ZCoin Lelantus Protocol** 
 
-    [**Audit Summary Report**](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf) | [Lelantus White Paper](https://eprint.iacr.org/2019/373.pdf)
+    [**Audit Summary Report**](https://github.com/trailofbits/publications/blob/master/reviews/zcoin-lelantus-summary.pdf). [Lelantus White Paper](https://eprint.iacr.org/2019/373.pdf)
 
 + **To Be Announced: Internet Privacy Project** 
   
