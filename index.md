@@ -15,7 +15,7 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     
 + **PrivacyRaven: Privacy Testing for Deep Learning**
 
-    Presentations at [Empire Hacking](https://www.empirehacking.nyc/archive/) [[Slides](https://sshussain.me/projects/privacyraven_eh.pdf)], [DEF CON AI Village Journal Club](https://aivillage.org/hacker-journal-club), & [OpenMined Privacy Conference](https://pricon.openmined.org/) [[Slides](https://sshussain.me/projects/pr_om.pdf)]. 2020. 
+    Presentations at [Empire Hacking](https://www.empirehacking.nyc/archive/) [[Slides](https://sshussain.me/projects/privacyraven_eh.pdf)], [DEF CON AI Village Journal Club](https://aivillage.org/hacker-journal-club), & [OpenMined Privacy Conference](https://pricon.openmined.org/) [[Slides](https://sshussain.me/projects/pr_om.pdf)], 2020. 
     
     [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven). [**Trail of Bits Blog Post**]()
    
@@ -32,9 +32,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
 
 +  **COPPTCHA: COPPA Tracking by Checking Hardware-level Activity** 
 
-    IEEE Transactions on Information Forensics and Security. 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [Data Collection](https://github.com/suhacker1/hpc-a)] 
+    IEEE Transactions on Information Forensics and Security, 2020. [[Paper](https://ieeexplore.ieee.org/abstract/document/9049424), [Data Collection](https://github.com/suhacker1/hpc-a)] 
    
-   Invited talk for the [NSA Board of Directors](https://cps-vo.org/node/35202#ISEF2019). 2019. [[**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf), [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf)]
+   Invited talk for the [NSA Board of Directors](https://cps-vo.org/node/35202#ISEF2019), 2019. [[**ISEF Paper**](https://sshussain.me/written_works/ISEF_Paper.pdf), [JSHS Slides](https://sshussain.me/written_works/JSHS_Slides.pdf)]
 
     <details>
         <summary> <b> Honors and Awards </b> </summary>
@@ -42,9 +42,9 @@ Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 
     <hr style="height:5px; visibility:hidden;" />
 + **A New Method for the Exploitation of Speech Recognition Systems** 
          
-   Computational Cybersecurity in Compromised Environments (Department of Defense Workshop). 2018. [[Poster](https://cps-vo.org/node/55909)]
+   Computational Cybersecurity in Compromised Environments (Department of Defense Workshop), 2018. [[Poster](https://cps-vo.org/node/55909)]
    
-   Invited talk at the NSA Research Directorate. 2018. [[**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf), [Slides](https://sshussain.me/written_works/speech_slides.pdf)]
+   Invited talk at the NSA Research Directorate, 2018. [[**ISEF Paper**](https://sshussain.me/written_works/speech_paper.pdf), [Slides](https://sshussain.me/written_works/speech_slides.pdf)]
    
  
    <details>
