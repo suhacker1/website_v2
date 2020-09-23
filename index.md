@@ -1,13 +1,17 @@
 ## About Me
 
-[**I’m a security and privacy engineer primarily interested in trustworthy machine learning, applied cryptography, and program analysis**](). 
-Currently, I’m an intern at [Trail of Bits](https://www.trailofbits.com/). 
+Hi, I’m Suha. 
+I’m a security engineer specializing in trustworthy machine learning and privacy-enhancing technologies. 
+I’m broadly interested in cryptography, program analysis, formal methods, and firmware engineering. 
 
-I’m pursuing a BS in Computer Science with threads in theoretical computer science ("Theory") and human-computer interaction ("People") at [Georgia Tech](http://www.catalog.gatech.edu/programs/theory-people-computer-science-bs/) where I also conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
-In addition, I’m a robotics engineer on the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I help organize a weekly [AI Privacy and Ethics Journal Club](https://aivillage.org/hacker-journal-club). 
+Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/).
+I’m pursuing a BS in Computer Science, specializing in theoretical computer science and human-computer interaction ([theory & people threads](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)), at the Georgia Institute of Technology where I conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
 
-Aside from my professional pursuits, I’m quite interested in privacy and civil liberties advocacy, traveling, cyberpunk and postmodern media, writing, martial arts, and urban studies. 
-Contact me through [Twitter](https://twitter.com/suhackerr) or at suhashussain1 ‘at’ gmail ‘dot’ com. For more details, here is my [resume](https://sshussain.me/SH_R.pdf) and [Google Scholar Profile](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en).
+I’m a robotics engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I help organize a weekly [AI Privacy and Ethics Journal Club for AI Village](https://aivillage.org/hacker-journal-club). 
+Aside from those pursuits, I enjoy traveling, science/speculative fiction and postmodern media, writing, privacy and civil liberties advocacy, martial arts, and urban studies. 
+
+Feel free to contact me at `suhashussain1 ‘at’ gmail ‘dot’ com` or [@suhackerr on Twitter](https://twitter.com/suhackerr)! Check out my [resume](https://sshussain.me/SH_R.pdf), [GitHub](https://github.com/suhacker1), and [Google Scholar](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en) for more information. 
+
 
 ## Notable Work
 
