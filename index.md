@@ -4,7 +4,8 @@ Hi, I’m Suha.
 I’m a security engineer specializing in trustworthy machine learning and privacy-enhancing technologies. 
 I’m broadly interested in cryptography, program analysis, formal methods, and firmware engineering. 
 
-Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/).
+Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/), taking a gap semester from university. 
+
 I’m pursuing a BS in Computer Science, specializing in theoretical computer science and human-computer interaction ([theory & people threads](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)), at the Georgia Institute of Technology where I conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
 
 I’m a robotics engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I help organize a weekly [AI Privacy and Ethics Journal Club for AI Village](https://aivillage.org/hacker-journal-club). 
