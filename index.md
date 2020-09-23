@@ -1,8 +1,8 @@
 ## About Me
 
 Hi, I’m Suha. 
-I’m a security engineer specializing in trustworthy machine learning and privacy-enhancing technologies. 
-I’m broadly interested in cryptography, program analysis, formal methods, and firmware engineering. 
+I’m a security engineer focused on **trustworthy machine learning** and **privacy-enhancing technologies**. 
+I’m also broadly interested in cryptography, program analysis, formal methods, and firmware engineering. 
 
 Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/), taking a gap semester from university. 
 
@@ -11,7 +11,8 @@ I’m pursuing a BS in Computer Science, specializing in theoretical computer sc
 I’m a robotics engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I help organize a weekly [AI Privacy and Ethics Journal Club for AI Village](https://aivillage.org/hacker-journal-club). 
 Aside from those pursuits, I enjoy traveling, science/speculative fiction and postmodern media, writing, privacy and civil liberties advocacy, martial arts, and urban studies. 
 
-Feel free to contact me at `suhashussain1 ‘at’ gmail ‘dot’ com` or [@suhackerr on Twitter](https://twitter.com/suhackerr)! Check out my [resume](https://sshussain.me/SH_R.pdf), [GitHub](https://github.com/suhacker1), and [Google Scholar](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en) for more information. 
+Feel free to contact me at [suhashussain1 ‘at’ gmail ‘dot’ com]() or [@suhackerr on Twitter](https://twitter.com/suhackerr)! 
+Check out my [resume](https://sshussain.me/SH_R.pdf), [GitHub](https://github.com/suhacker1), and [Google Scholar](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en) for more information. 
 
 
 ## Notable Work
