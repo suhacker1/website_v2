@@ -11,7 +11,7 @@ In addition, I’m a robotics engineer at the [RoboJackets RoboNav Team](https:/
 Aside from those pursuits, I enjoy traveling, science/speculative fiction and postmodern media, writing, privacy and civil liberties advocacy, martial arts, and urban studies. 
 
 Feel free to contact me at [suhashussain1 ‘at’ gmail ‘dot’ com]() or [@suhackerr on Twitter](https://twitter.com/suhackerr)! 
-Check out my [resume](https://sshussain.me/SH_R.pdf), [GitHub](https://github.com/suhacker1), and [Google Scholar](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en) for more information. 
+Check out my [resume](https://sshussain.me/Suha_Sabi_Hussain_Resume.pdf), [GitHub](https://github.com/suhacker1), and [Google Scholar](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en) for more information. 
 
 
 ## Notable Work
