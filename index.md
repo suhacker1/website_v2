@@ -20,7 +20,7 @@ Check out my [resume](https://sshussain.me/Suha_Sabi_Hussain_Resume.pdf), [GitHu
     
 + **PrivacyRaven: Privacy Testing for Deep Learning**
 
-    Presented at [Empire Hacking](https://www.empirehacking.nyc/archive/) [[Slides](https://sshussain.me/projects/privacyraven_eh.pdf)], [OpenMined Privacy Conference](https://pricon.openmined.org/) [[Slides](https://sshussain.me/projects/pr_om.pdf)], & [DEF CON AI Village Journal Club](https://aivillage.org/hacker-journal-club), 2020. 
+    Presented at [Empire Hacking](https://www.empirehacking.nyc/archive/) [[Slides](https://sshussain.me/projects/privacyraven_eh.pdf)], [OpenMined Privacy Conference](https://pricon.openmined.org/) [[Video](https://www.youtube.com/watch?v=F46lX5VIoas&t=2h21m40s); [Slides](https://sshussain.me/projects/pr_om.pdf)], & [DEF CON AI Village Journal Club](https://aivillage.org/hacker-journal-club), 2020. 
     
     [**GitHub Repository**](https://github.com/trailofbits/PrivacyRaven). [Blog Post Coming Soon]()
    
