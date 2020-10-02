@@ -7,7 +7,7 @@ Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/).
 
 I’m pursuing a BS in Computer Science, specializing in theoretical computer science and human-computer interaction ([Threads in Theory & People](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)), at the Georgia Institute of Technology where I conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
 
-In addition, I’m a robotics engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and I help organize a weekly [AI Privacy and Ethics Journal Club for AI Village](https://aivillage.org/hacker-journal-club). 
+In addition, I’m a robotics engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and a volunteer at [AI Village](https://aivillage.org/). 
 Aside from those pursuits, I enjoy traveling, science/speculative fiction and postmodern media, writing, privacy and civil liberties advocacy, martial arts, and urban studies. 
 
 Feel free to contact me at [suhashussain1 ‘at’ gmail ‘dot’ com]() or [@suhackerr on Twitter](https://twitter.com/suhackerr)! 
