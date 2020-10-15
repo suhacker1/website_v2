@@ -89,7 +89,7 @@ Check out my [resume](https://sshussain.me/Suha_Sabi_Hussain_Resume.pdf), [GitHu
 
 <details>
 <summary> Philanthropy </summary>
-  <p> I recommend donating to <a href="https://www.thelifeyoucansave.org/"> the Life You Can Save (GiveDirectly, D-Rev, Evidence Action)</a>, <a href="https://housingrightsny.org/"> the Housing Rights Initiative</a>, <a href="https://couragetochangepac.org/"> the Courage to Change PAC (affiliated with AOC)</a>, or <a href="https://secure.actblue.com/donate/ab_mn"> any of these organizations fighting against systemic racism and police brutality</a>. </p>
+  <p> I recommend donating to <a href="https://www.thelifeyoucansave.org/"> the Life You Can Save (GiveDirectly, D-Rev, Evidence Action)</a>, <a href="https://housingrightsny.org/"> the Housing Rights Initiative</a>, <a href="https://couragetochangepac.org/"> the Courage to Change PAC (affiliated with AOC)</a>, <a href="https://onenationuk.org/projects/emergency-village-in-syria"> emergency villages in Syria</a>, or <a href="https://secure.actblue.com/donate/ab_mn"> any of these organizations fighting against systemic racism and police brutality</a>. </p>
 </details>
 
 <details>
