@@ -62,11 +62,9 @@ Check out my [resume](https://sshussain.me/Suha_Sabi_Hussain_Resume.pdf), [GitHu
 
 + **[Neural Network Training Materials](https://github.com/RoboJackets/nn-training)**
 
-+ **[Debugger and Emulator for Firmware Systems (In Progress)]()**
++ **[Unit Tests, Fuzz Tests, and Emulation for ARM-Based Firmware Systems (In Progress)](https://github.com/RoboJackets/igvc-firmware)**
 
-+ **[Unit Tests and Fuzzers for Firmware Systems (In Progress)]()**
 
-  
 ## More Information 
 
 <details>
