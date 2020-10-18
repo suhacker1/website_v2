@@ -4,10 +4,9 @@ Hi, I’m Suha.
 I’m a security engineer focused on trustworthy machine learning, privacy-enhancing technologies, and applied cryptography. 
 Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/).
 
-I’m pursuing a BS in Computer Science, specializing in theoretical computer science and human-computer interaction ([Threads in Theory & People](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)), at the Georgia Institute of Technology where I conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
+I’m pursuing a BS in Computer Science, specializing in theoretical computer science and human-computer interaction ([Threads in Theory & People](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)), at the Georgia Institute of Technology where I conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). I also volunteer at [AI Village](https://aivillage.org/). 
 
-In addition, I’m a robotics engineer at the [RoboJackets RoboNav Team](https://robojackets.org/teams/robonav/), and a volunteer at [AI Village](https://aivillage.org/). 
-Aside from those pursuits, I enjoy traveling, science/speculative fiction and postmodern media, writing, privacy and civil liberties advocacy, martial arts, and urban studies. 
+I’m currently learning more about formal methods, program analysis, and compiler engineering. Aside from those pursuits, I’m interested in writing, traveling, martial arts, sociology, speculative and postmodern fiction, privacy and civil liberties advocacy, and sailing. 
 
 Feel free to contact me at [suhashussain1 ‘at’ gmail ‘dot’ com]() or [@suhackerr on Twitter](https://twitter.com/suhackerr)! 
 Check out my [resume](https://sshussain.me/Suha_Sabi_Hussain_Resume.pdf), [GitHub](https://github.com/suhacker1), and [Google Scholar](https://scholar.google.com/citations?user=950rBFYAAAAJ&hl=en) for more information. 
