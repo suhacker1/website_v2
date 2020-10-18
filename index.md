@@ -1,8 +1,7 @@
 ## About Me
 
 Hi, I’m Suha. 
-I’m a security engineer focused on **trustworthy machine learning** and **privacy-enhancing technologies**. 
-I’m also broadly interested in cryptography, program analysis, formal methods, and firmware engineering. 
+I’m a security engineer focused on trustworthy machine learning, privacy-enhancing technologies, and applied cryptography. 
 Right now, I’m an intern at [Trail of Bits](https://www.trailofbits.com/).
 
 I’m pursuing a BS in Computer Science, specializing in theoretical computer science and human-computer interaction ([Threads in Theory & People](https://www.cc.gatech.edu/academics/degree-programs/bachelors/computer-science/threads)), at the Georgia Institute of Technology where I conduct computer security research under [Prof. Wenke Lee](https://wenke.gtisc.gatech.edu/). 
